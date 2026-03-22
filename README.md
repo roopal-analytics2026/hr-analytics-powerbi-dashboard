@@ -18,3 +18,8 @@ Interactive dashboard with slicers and filters
 Identified higher attrition in specific departments
 Observed trends based on age group and salary range
 Highlighted areas needing employee retention strategies
+##Dashboard Preview
+
+<img width="905" height="507" alt="Powerbi HR Analytics Dashboard 1" src="https://github.com/user-attachments/assets/92764a41-196a-48cd-9acb-9a51cd85143f" />
+<img width="905" height="507" alt="Powerbi HR Analytics Dashboard 2" src="https://github.com/user-attachments/assets/a3372155-4b74-4961-b726-adf8f6975c8a" />
+
